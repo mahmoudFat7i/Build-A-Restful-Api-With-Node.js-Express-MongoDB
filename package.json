@@ -1,0 +1,28 @@
+{
+  "name": "build-a-restful-api-with-node.js-express-mongodb",
+  "version": "1.0.0",
+  "description": "A Restful Api With Node.js Express &amp; MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoudFat7i/Build-A-Restful-Api-With-Node.js-Express-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmoudFat7i/Build-A-Restful-Api-With-Node.js-Express-MongoDB/issues"
+  },
+  "homepage": "https://github.com/mahmoudFat7i/Build-A-Restful-Api-With-Node.js-Express-MongoDB#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
